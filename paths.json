@@ -1,0 +1,7 @@
+{
+  "mappings": [
+    "/content/ue-wknd-site/:/",
+    "/content/ue-wknd-site/configuration:/.helix/config.json",
+    "/content/ue-wknd-site/metadata:/metadata.json"
+  ]
+}
